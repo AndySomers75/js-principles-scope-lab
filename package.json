@@ -35,5 +35,8 @@
   },
   "dependencies": {
     "sinon": "^7.2.5"
+  },
+  "directories": {
+    "test": "test"
   }
 }
